@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(184, 200, 233);
+}
+
+h1 {
+    color: darkgreen;
+    font-style: italic;
+    font-size: 50px;
+}
+
+button {
+    font-size: 16px;
+    background-color: #bdd5dd;
+    border-radius: 4px;
+}
